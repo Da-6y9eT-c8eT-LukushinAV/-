@@ -1,0 +1,14 @@
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\bin\Debug\net8.0\Polymorph.exe
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\bin\Debug\net8.0\Polymorph.deps.json
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\bin\Debug\net8.0\Polymorph.runtimeconfig.json
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\bin\Debug\net8.0\Polymorph.dll
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\bin\Debug\net8.0\Polymorph.pdb
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\Polymorph.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\Polymorph.AssemblyInfoInputs.cache
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\Polymorph.AssemblyInfo.cs
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\Polymorph.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\Polymorph.dll
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\refint\Polymorph.dll
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\Polymorph.pdb
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\Polymorph.genruntimeconfig.cache
+\\iscsi\profstud\LukushinAV\Desktop\Polymorph\Polymorph\obj\Debug\net8.0\ref\Polymorph.dll
