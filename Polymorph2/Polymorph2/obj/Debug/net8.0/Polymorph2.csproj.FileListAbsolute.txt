@@ -1,0 +1,14 @@
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\bin\Debug\net8.0\Polymorph2.exe
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\bin\Debug\net8.0\Polymorph2.deps.json
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\bin\Debug\net8.0\Polymorph2.runtimeconfig.json
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\bin\Debug\net8.0\Polymorph2.dll
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\bin\Debug\net8.0\Polymorph2.pdb
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\Polymorph2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\Polymorph2.AssemblyInfoInputs.cache
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\Polymorph2.AssemblyInfo.cs
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\Polymorph2.csproj.CoreCompileInputs.cache
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\Polymorph2.dll
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\refint\Polymorph2.dll
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\Polymorph2.pdb
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\Polymorph2.genruntimeconfig.cache
+C:\Users\LukushinAV\source\repos\Polymorph2\Polymorph2\obj\Debug\net8.0\ref\Polymorph2.dll
