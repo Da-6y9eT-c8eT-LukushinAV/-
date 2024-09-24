@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FactoryMet\FactoryMet\bin\Debug\net8.0\FactoryMet.exe
+C:\Users\User\source\repos\FactoryMet\FactoryMet\bin\Debug\net8.0\FactoryMet.deps.json
+C:\Users\User\source\repos\FactoryMet\FactoryMet\bin\Debug\net8.0\FactoryMet.runtimeconfig.json
+C:\Users\User\source\repos\FactoryMet\FactoryMet\bin\Debug\net8.0\FactoryMet.dll
+C:\Users\User\source\repos\FactoryMet\FactoryMet\bin\Debug\net8.0\FactoryMet.pdb
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\FactoryMet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\FactoryMet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\FactoryMet.AssemblyInfo.cs
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\FactoryMet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\FactoryMet.dll
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\refint\FactoryMet.dll
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\FactoryMet.pdb
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\FactoryMet.genruntimeconfig.cache
+C:\Users\User\source\repos\FactoryMet\FactoryMet\obj\Debug\net8.0\ref\FactoryMet.dll
